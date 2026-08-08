@@ -1,7 +1,5 @@
 # Sistema de Carteirinhas de Associação
 
-# Sistema de Carteirinhas de Associação
-
 ![Java](https://img.shields.io/badge/Java-25-blue?logo=java)
 ![License](https://img.shields.io/badge/license-MIT-green?logo=github)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange?logo=semantic-release)
