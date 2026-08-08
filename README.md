@@ -27,6 +27,26 @@ O objetivo é criar um sistema simples de gerenciamento de associados e carteiri
 - `Associacao.java` → Classe que gerencia a lista de associados.
 - `Main.java` → Classe principal com menu no terminal.
 
+
+carteirinhas-poo/
+│
+├── README.md              # Documentação do projeto
+├── LICENSE                # Licença (ex.: MIT)
+├── .gitignore             # Arquivos a ignorar no Git
+│
+├── src/                   # Código-fonte principal
+│   ├── Main.java          # Classe principal com menu
+│   ├── associacao/        # Pacote para lógica da associação
+│   │   ├── Associacao.java
+│   │   ├── Associado.java
+│   │   └── Carteirinha.java
+│
+├── data/                  # Dados persistidos
+│   └── associados.csv     # Arquivo para salvar associados
+│
+└── test/                  # Testes unitários (se quiser usar JUnit)
+    └── AssociadoTest.java
+
 ## 🚀 Como executar
 1. Clone este repositório:
    ```bash
@@ -53,5 +73,36 @@ O objetivo é criar um sistema simples de gerenciamento de associados e carteiri
 - **Herança**: possibilidade de criar tipos específicos de associados.
 - **Polimorfismo**: sobrescrita de métodos para diferentes tipos de associados.
 
+---
+
+## 🔮 Planos futuros
+
+Este projeto foi pensado de forma **genérica**, para que possa ser expandido além da versão inicial em terminal.  
+Algumas melhorias previstas para versões futuras incluem:
+
+- **Sistema de cadastro completo**  
+  - Menu interativo para cadastrar, buscar e remover associados.  
+  - Diferentes tipos de associados (morador, estudante, agricultor).  
+
+- **Integração com banco de dados SQLite**  
+  - Substituir o armazenamento em arquivo `.csv` por um banco de dados real.  
+  - Tabelas para `associados` e `carteirinhas`, com relacionamento entre elas.  
+
+- **Validação de dados**  
+  - Verificação de CPF único.  
+  - Controle de validade das carteirinhas.  
+
+- **Testes automatizados**  
+  - Implementação de testes unitários para garantir qualidade do código.  
+
+- **Escalabilidade**  
+  - Possibilidade de adaptar o sistema para outras associações comunitárias ou estudantis.  
+  - Estrutura genérica que facilita a criação de novos tipos de associados sem alterar a lógica central.  
+
+---
+
+## 📌 Visão
+
+A ideia é que este projeto seja um **protótipo inicial** de um sistema de gestão de associados, que pode evoluir para uma solução mais completa e profissional, servindo como base para comunidades, escolas, clubes ou qualquer organização que precise de carteirinhas de associação.
 ## 👨‍🏫 Autor
 
