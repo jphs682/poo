@@ -1,7 +1,6 @@
 # Sistema de Carteirinhas de Associação
-# Sistema de Carteirinhas de Associação
 
-![Java](https://img.shields.io/badge/Java-17-blue)
+![Java](https://img.shields.io/badge/Java-25-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 ![Last Commit](https://img.shields.io/github/last-commit/seuusuario/carteirinhas-poo)
@@ -52,4 +51,4 @@ O objetivo é criar um sistema simples de gerenciamento de associados e carteiri
 - **Polimorfismo**: sobrescrita de métodos para diferentes tipos de associados.
 
 ## 👨‍🏫 Autor
-Projeto acadêmico desenvolvido por João para práticas de ensino em POO.
+
