@@ -8,6 +8,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/seuusuario/carteirinhas-poo?logo=github)
 ![Stars](https://img.shields.io/github/stars/seuusuario/carteirinhas-poo?style=social&logo=github)
 
+--- 
 
 Projeto desenvolvido para a disciplina de Programação Orientada a Objetos (POO) em Java.  
 O objetivo é criar um sistema simples de gerenciamento de associados e carteirinhas, utilizando os pilares da POO.
@@ -48,6 +49,8 @@ carteirinhas-poo/
     └── AssociadoTest.java
 ```
 
+---
+
 ## 🚀 Como executar
 1. Clone este repositório:
    ```bash
@@ -62,11 +65,15 @@ carteirinhas-poo/
    java Main
    ```
 
+---
+
 ## 📌 Funcionalidades
 - Cadastrar associado com nome e CPF.
 - Gerar carteirinha com código e validade.
 - Listar associados e suas carteirinhas.
 - Renovar carteirinha.
+
+---
 
 ## 📖 Conceitos aplicados
 - **Abstração**: modelagem de entidades reais (Associado, Carteirinha).
@@ -104,6 +111,10 @@ Algumas melhorias previstas para versões futuras incluem:
 
 ## 📌 Visão
 
+
 A ideia é que este projeto seja um **protótipo inicial** de um sistema de gestão de associados, que pode evoluir para uma solução mais completa e profissional, servindo como base para comunidades, escolas, clubes ou qualquer organização que precise de carteirinhas de associação.
+
+---
+
 ## 👨‍🏫 Autor
 
