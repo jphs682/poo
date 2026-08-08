@@ -1,10 +1,15 @@
 # Sistema de Carteirinhas de Associação
 
-![Java](https://img.shields.io/badge/Java-25-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Version](https://img.shields.io/badge/version-1.0.0-orange)
-![Last Commit](https://img.shields.io/github/last-commit/seuusuario/carteirinhas-poo)
-![Stars](https://img.shields.io/github/stars/seuusuario/carteirinhas-poo?style=social)
+# Sistema de Carteirinhas de Associação
+
+![Java](https://img.shields.io/badge/Java-25-blue?logo=java)
+![License](https://img.shields.io/badge/license-MIT-green?logo=github)
+![Version](https://img.shields.io/badge/version-1.0.0-orange?logo=semantic-release)
+![Build](https://img.shields.io/github/actions/workflow/status/seuusuario/carteirinhas-poo/build.yml?logo=githubactions&label=build)
+![Last Commit](https://img.shields.io/github/last-commit/seuusuario/carteirinhas-poo?logo=git)
+![Repo Size](https://img.shields.io/github/repo-size/seuusuario/carteirinhas-poo?logo=github)
+![Stars](https://img.shields.io/github/stars/seuusuario/carteirinhas-poo?style=social&logo=github)
+
 
 Projeto desenvolvido para a disciplina de Programação Orientada a Objetos (POO) em Java.  
 O objetivo é criar um sistema simples de gerenciamento de associados e carteirinhas, utilizando os pilares da POO.
