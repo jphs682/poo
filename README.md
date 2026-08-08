@@ -27,6 +27,7 @@ O objetivo é criar um sistema simples de gerenciamento de associados e carteiri
 - `Associacao.java` → Classe que gerencia a lista de associados.
 - `Main.java` → Classe principal com menu no terminal.
 
+```
 carteirinhas-poo/
 │
 ├── README.md              # Documentação do projeto
@@ -45,7 +46,7 @@ carteirinhas-poo/
 │
 └── test/                  # Testes unitários (se quiser usar JUnit)
     └── AssociadoTest.java
-
+```
 
 ## 🚀 Como executar
 1. Clone este repositório:
