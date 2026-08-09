@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-orange?logo=semantic-release)
 ![Build](https://img.shields.io/github/actions/workflow/status/seuusuario/carteirinhas-poo/build.yml?logo=githubactions&label=build)
 ![Last Commit](https://img.shields.io/github/last-commit/seuusuario/carteirinhas-poo?logo=git)
-![Repo Size](https://img.shields.io/github/repo-size/seuusuario/carteirinhas-poo?logo=github)
+![Repo Size](https://img.shields.io/github/jphs682/poo.git?logo=github)
 ![Stars](https://img.shields.io/github/stars/seuusuario/carteirinhas-poo?style=social&logo=github)
 
 --- 
