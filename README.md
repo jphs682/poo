@@ -1,13 +1,12 @@
 # Sistema de Carteirinhas de Associação
 
-![Java](https://img.shields.io/badge/Java-25-blue?logo=java)
+![Java](https://img.shields.io/badge/Java-17-blue?logo=java)
 ![License](https://img.shields.io/badge/license-MIT-green?logo=github)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange?logo=semantic-release)
-![Build](https://img.shields.io/github/actions/workflow/status/seuusuario/carteirinhas-poo/build.yml?logo=githubactions&label=build)
-![Last Commit](https://img.shields.io/github/last-commit/seuusuario/carteirinhas-poo?logo=git)
-![Repo Size](https://img.shields.io/github/jphs682/poo.git?logo=github)
-![Stars](https://img.shields.io/github/stars/jphs682/poo?style=social&logo=github)
-
+![Build](https://img.shields.io/github/actions/workflow/status/jphs682/poo/build.yml?logo=githubactions&label=build)
+![Last Commit](https://img.shields.io/github/last-commit/jphs682/poo?logo=git)
+![Repo Size](https://img.shields.io/github/repo-size/jphs682/poo?logo=github)
+![Stars](https://img.shields.io/github/stars/jphs682/poo?logo=github)
 --- 
 
 Projeto desenvolvido para a disciplina de Programação Orientada a Objetos (POO) em Java.  
@@ -117,4 +116,6 @@ A ideia é que este projeto seja um **protótipo inicial** de um sistema de gest
 ---
 
 ## 👨‍🏫 Autor
+
+[GitHub - jphs682/poo](https://github.com/jphs682/poo)
 
