@@ -1,6 +1,6 @@
 # Sistema de Carteirinhas de Associação
 
-![Java](https://img.shields.io/badge/Java-17-blue?logo=java)
+![Java](https://img.shields.io/badge/Java-25-blue?logo=java)
 ![License](https://img.shields.io/badge/license-MIT-green?logo=github)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange?logo=semantic-release)
 ![Build](https://img.shields.io/github/actions/workflow/status/jphs682/poo/build.yml?logo=githubactions&label=build)
